@@ -1,21 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+## Community Hero - Hyperlocal Problem Solver
 
-# Run and deploy your AI Studio app
+# Vibe2Code Contest
 
-This contains everything you need to run your app locally.
+- This application was built entirely using aistudio for the purpose of sharing it in the Vibe2Code which reuired the users to code the problem statement using AI Studio.
 
-View your app in AI Studio: https://ai.studio/apps/e1dd6f08-1f38-4282-aea9-9c0be0cfe57f
+# Problem Statement
 
-## Run Locally
+- Build a platform that enables citizens to identify, report, validate, track, and resolve community issues through collaboration, data, and intelligent automation.
+The solution should encourage transparency, accountability, and community participation.
+- Image and video-based issue reporting
+- AI-powered issue categorization
+- Geo-location and mapping
+- Community verification
+- Real-time issue tracking
+- Impact dashboards
+- Predictive insights
+- Gamification for citizen engagement
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+-- Evaluation Focus : The solution should demonstrate how AI can help communities address local challenges more efficiently through improved reporting, verification, tracking, and resolution of issues.
 
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
