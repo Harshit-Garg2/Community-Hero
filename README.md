@@ -2,7 +2,7 @@
 
 ## Vibe2Code Contest
 
-- This application was built entirely using aistudio for the purpose of sharing it in the Vibe2Code which reuired the users to code the problem statement using AI Studio.
+- This application was built entirely using aistudio for the purpose of sharing it in the Vibe2Code which required the developers to code the problem statement using AI Studio.
 
 ## Problem Statement
 
