@@ -1,10 +1,10 @@
-## Community Hero - Hyperlocal Problem Solver
+# Community Hero - Hyperlocal Problem Solver
 
-# Vibe2Code Contest
+## Vibe2Code Contest
 
 - This application was built entirely using aistudio for the purpose of sharing it in the Vibe2Code which reuired the users to code the problem statement using AI Studio.
 
-# Problem Statement
+## Problem Statement
 
 - Build a platform that enables citizens to identify, report, validate, track, and resolve community issues through collaboration, data, and intelligent automation.
 The solution should encourage transparency, accountability, and community participation.
